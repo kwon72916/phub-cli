@@ -2,3 +2,4 @@
 set -eu
 
 echo "phub-cli"
+# clarify the control flow
